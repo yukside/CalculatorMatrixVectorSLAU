@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Calculator_relize/Calculator_relize.vcxproj" Id="31feefc5-83a5-4bbd-ac25-af056e6b1553" />
+</Solution>
